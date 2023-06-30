@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+h1,h2,h3,h4 { 
+    color: #1d5e8c;
+    font-family:'Times New Roman', Times, serif;
+}
+
+h1{
+    font-size: 25px;
+}
+h2{
+    font-size: 20px;
+}
+h4{
+    font-size: 15px;
+}
+
+.destacado{
+    font-weight: 800;
+}
+p.destacado{
+
+}

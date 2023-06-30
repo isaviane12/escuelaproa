@@ -1,0 +1,1 @@
+SELECT * FROM turismorio3_bd.turismoríoiii;
